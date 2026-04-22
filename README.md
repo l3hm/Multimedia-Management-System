@@ -13,8 +13,6 @@ A desktop application for managing large multimedia collections (images, audio, 
 - Persistent storage using a database
 - Desktop UI with integrated file system access
 
----
-
 ## Tech stack
 
 - **Frontend:** React + Electron  
